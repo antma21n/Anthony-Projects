@@ -20,3 +20,7 @@ With Ivan being from another country, I had to create my own BOM and source my o
 
 ### Build
 This build was done with basic hand tools outside of a metal grinder to cut the T-Slots.
+
+![alt text](https://github.com/antma21n/Anthony-Projects/blob/main/Senior%20-%20CNC%20Router/CNC%20Router%20ASM.jpg)
+
+![alt text](https://github.com/antma21n/Anthony-Projects/blob/main/Senior%20-%20CNC%20Router/CNC%20Router%20ASM.jpg)
